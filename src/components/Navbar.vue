@@ -436,6 +436,7 @@ export default {
     }
 
     &:hover {
+      border: 2px solid #e8c250;
       img {
         opacity: 0.75;
       }
